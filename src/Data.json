@@ -1,0 +1,373 @@
+[
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "cast": [
+        {
+          "name": "Tim Robbins",
+          "role": "Andy Dufresne"
+        },
+        {
+          "name": "Morgan Freeman",
+          "role": "Ellis Boyd 'Red' Redding"
+        },
+        {
+          "name": "Bob Gunton",
+          "role": "Warden Norton"
+        },
+        {
+          "name": "William Sadler",
+          "role": "Heywood"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Roger Ebert",
+          "quote": "The Shawshank Redemption is a movie about time, patience and loyalty -- not sexy qualities, perhaps, but they grow on you during the subterranean progress of this story, which is about how two men serving life sentences in prison become friends and find a way to fight off despair.",
+          "rating": 4.5
+        },
+        {
+          "reviewer": "Peter Travers",
+          "quote": "Stephen King's 1982 novella Rita Hayworth and Shawshank Redemption is more like a fable than a horror story. Darabont transforms it into the season's most affecting and satisfying movie -- a story of survival and friendship inside a hellhouse.",
+          "rating": 5
+        }
+      ],
+      "rating": 9.3,
+      "image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "cast": [
+        {
+          "name": "Marlon Brando",
+          "role": "Don Vito Corleone"
+        },
+        {
+          "name": "Al Pacino",
+          "role": "Michael Corleone"
+        },
+        {
+          "name": "James Caan",
+          "role": "Sonny Corleone"
+        },
+        {
+          "name": "Diane Keaton",
+          "role": "Kay Adams"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Roger Ebert",
+          "quote": "One of the greatest American films of all time, The Godfather gets better with age, as does the Mafia itself.",
+          "rating": 4.5
+        },
+        {
+          "reviewer": "Peter Travers",
+          "quote": "Coppola's film is rivaled only by Citizen Kane and Casablanca in the pantheon of great American cinema.",
+          "rating": 5
+        }
+      ],
+      "rating": 9.2,
+      "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Inception",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "cast": [
+        {
+          "name": "Leonardo DiCaprio",
+          "role": "Cobb"
+        },
+        {
+          "name": "Joseph Gordon-Levitt",
+          "role": "Arthur"
+        },
+        {
+          "name": "Elliot Page",
+          "role": "Ariadne"
+        },
+        {
+          "name": "Tom Hardy",
+          "role": "Eames"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Roger Ebert",
+          "quote": "Inception does a difficult thing. It is wholly original, cut from new cloth, and yet structured with action movie basics so it feels like it makes more sense than (quite possibly) it does.",
+          "rating": 4
+        },
+        {
+          "reviewer": "Peter Travers",
+          "quote": "DiCaprio gives a tour-de-force performance, but the film is also a triumph of design. Nolan deserves all credit for making the most original movie of a brain-heavy summer season.",
+          "rating": 4.5
+        }
+      ],
+      "rating": 8.8,
+      "image": "https://m.media-amazon.com/images/I/71thFiIUSpL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Interstellar",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "cast": [
+        {
+          "name": "Matthew McConaughey",
+          "role": "Cooper"
+        },
+        {
+          "name": "Anne Hathaway",
+          "role": "Brand"
+        },
+        {
+          "name": "Jessica Chastain",
+          "role": "Murph"
+        },
+        {
+          "name": "Michael Caine",
+          "role": "Professor Brand"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Roger Ebert",
+          "quote": "Interstellar is above all a terrifically entertaining science-fiction movie, quivering with wonder, patriotism, and corn.",
+          "rating": 4
+        },
+        {
+          "reviewer": "Peter Travers",
+          "quote": "Nolan breaks his own rules, but he does it for a reason: to blow our minds. Interstellar aims high and wide, and it scores.",
+          "rating": 4.5
+        }
+      ],
+      "rating": 8.6,
+      "image": " https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Forrest Gump",
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+      "cast": [
+        {
+          "name": "Tom Hanks",
+          "role": "Forrest Gump"
+        },
+        {
+          "name": "Robin Wright",
+          "role": "Jenny Curran"
+        },
+        {
+          "name": "Gary Sinise",
+          "role": "Lt. Dan Taylor"
+        },
+        {
+          "name": "Sally Field",
+          "role": "Mrs. Gump"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Roger Ebert",
+          "quote": "Forrest Gump is a magical movie. It is a film that restores our faith in humanity.",
+          "rating": 4
+        },
+        {
+          "reviewer": "Peter Travers",
+          "quote": "Forrest Gump is a movie heartbreaker of oddball wit and startling grace.",
+          "rating": 4.5
+        }
+      ],
+      "rating": 8.8,
+      "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Matrix",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "cast": [
+        {
+          "name": "Keanu Reeves",
+          "role": "Neo"
+        },
+        {
+          "name": "Laurence Fishburne",
+          "role": "Morpheus"
+        },
+        {
+          "name": "Carrie-Anne Moss",
+          "role": "Trinity"
+        },
+        {
+          "name": "Hugo Weaving",
+          "role": "Agent Smith"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Roger Ebert",
+          "quote": "The Matrix did not invent all its material, but most of it, and it cleverly elaborated on everything it borrowed, making the film seem original even when it was not.",
+          "rating": 4
+        },
+        {
+          "reviewer": "Peter Travers",
+          "quote": "The Matrix is mind-blowing. It's the most exciting film of the year.",
+          "rating": 4.5
+        }
+      ],
+      "rating": 8.7,
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Schindler's List",
+      "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "cast": [
+        {
+          "name": "Liam Neeson",
+          "role": "Oskar Schindler"
+        },
+        {
+          "name": "Ben Kingsley",
+          "role": "Itzhak Stern"
+        },
+        {
+          "name": "Ralph Fiennes",
+          "role": "Amon Goeth"
+        },
+        {
+          "name": "Caroline Goodall",
+          "role": "Emilie Schindler"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Roger Ebert",
+          "quote": "Steven Spielberg's Schindler's List is not only a great film, but an important one as well, and it arrives on the DVD format with an impeccable transfer that should make the film's beauty and horror all the more striking.",
+          "rating": 4.5
+        },
+        {
+          "reviewer": "Peter Travers",
+          "quote": "Spielberg has made the defining Holocaust movie. His film, magnificent and appalling, shows that every image is indelible, yet he finds images of transcendent hope.",
+          "rating": 5
+        }
+      ],
+      "rating": 8.9,
+      "image": " https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_SX678_AL_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Dark Knight",
+      "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "cast": [
+        {
+          "name": "Christian Bale",
+          "role": "Bruce Wayne / Batman"
+        },
+        {
+          "name": "Heath Ledger",
+          "role": "Joker"
+        },
+        {
+          "name": "Aaron Eckhart",
+          "role": "Harvey Dent"
+        },
+        {
+          "name": "Gary Oldman",
+          "role": "Commissioner Gordon"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Roger Ebert",
+          "quote": "The Dark Knight is not a simplistic tale of good and evil. Batman is good, yes, The Joker is evil, yes. But Batman poses a more complex puzzle than usual: The citizens of Gotham City are in an uproar, calling him a vigilante and blaming him for the deaths of policemen and others.",
+          "rating": 4
+        },
+        {
+          "reviewer": "Peter Travers",
+          "quote": "The Dark Knight isn't just the best Batman movie ever, it's a classic you'll want to see over and over. It's going to haunt you.",
+          "rating": 4.5
+        }
+      ],
+      "rating": 9,
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Fight Club",
+      "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+      "cast": [
+        {
+          "name": "Brad Pitt",
+          "role": "Tyler Durden"
+        },
+        {
+          "name": "Edward Norton",
+          "role": "Narrator"
+        },
+        {
+          "name": "Helena Bonham Carter",
+          "role": "Marla Singer"
+        },
+        {
+          "name": "Meat Loaf",
+          "role": "Robert 'Bob' Paulson"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Roger Ebert",
+          "quote": "The best films always seem to inspire the most interesting conversations, and Fight Club is definitely one of those films.",
+          "rating": 4
+        },
+        {
+          "reviewer": "Peter Travers",
+          "quote": "Fight Club is a dazzling tale. A hell of a ride. It's about the most controversial film since Clockwork Orange, and rightly so. Fight Club is a masterpiece.",
+          "rating": 4.5
+        }
+      ],
+      "rating": 8.8,
+      "image": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Pulp Fiction",
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "cast": [
+        {
+          "name": "John Travolta",
+          "role": "Vincent Vega"
+        },
+        {
+          "name": "Samuel L. Jackson",
+          "role": "Jules Winnfield"
+        },
+        {
+          "name": "Uma Thurman",
+          "role": "Mia Wallace"
+        },
+        {
+          "name": "Bruce Willis",
+          "role": "Butch Coolidge"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewer": "Roger Ebert",
+          "quote": "Pulp Fiction is a breathtaking triumph of filmmaking. It's a wild, exhilarating ride.",
+          "rating": 4.5
+        },
+        {
+          "reviewer": "Peter Travers",
+          "quote": "Tarantino's landmark and memorable film Pulp Fiction is a powerful piece of work from the mind of one of the most talented directors working today.",
+          "rating": 5
+        }
+      ],
+      "rating": 8.9,
+      "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    }
+  ]
+  
