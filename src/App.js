@@ -20,7 +20,7 @@ import Cards from "./CardsNew/Cards";
 function App() {
   return (
     <div className="App bg-dark">
-      {/* <WatchlistProvider>
+     <WatchlistProvider>
       <ToastContainer />
         <AuthProvider>
           <Routes>
@@ -32,10 +32,9 @@ function App() {
             <Route path="/popular-movies" element={<PopularMovies/>} />
           </Routes>
         </AuthProvider>
-      </WatchlistProvider> */}
+      </WatchlistProvider> 
       {/* <TestRouter/> */}
       {/* <Footer/> */}
-      <Cards/>
     </div>
   );
 }
